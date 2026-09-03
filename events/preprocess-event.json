@@ -1,5 +1,5 @@
 {
-  "batch_id": "<actual-batch-id>",
-  "bucket": "<actual-data-bucket-name>",
-  "interim_prefix": "interim/<actual-batch-id>/"
+  "batch_id": "20260903_155459",
+  "bucket": "books-pipeline-databucket-tuc8oev748ip",
+  "interim_prefix": "interim/20260903_155459/"
 }
